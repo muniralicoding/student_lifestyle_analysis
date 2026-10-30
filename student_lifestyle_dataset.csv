@@ -1,0 +1,102 @@
+Student_ID,Gender,Attendance_Pct,Study_Hours,Sleep_Hours,Social_Media_Hours,Internal_Exam_Score,Semester_CGPA,Study_Group,Grade_Category
+CU_MCA_001,Female,92.5,5.5,7.0,1.5,88,8.95,Yes,Distinction
+CU_MCA_002,Male,78.0,3.5,6.5,3.0,72,7.40,No,First Class
+CU_MCA_003,Male,65.0,2.0,5.5,5.0,54,5.80,No,Second Class
+CU_MCA_004,Female,88.0,4.5,7.5,2.0,84,8.45,Yes,First Class
+CU_MCA_005,Male,85.5,4.0,6.0,2.5,79,7.90,Yes,First Class
+CU_MCA_006,Female,95.0,6.5,8.0,1.0,94,9.50,Yes,Distinction
+CU_MCA_007,Male,71.0,2.5,5.0,4.5,62,6.35,No,Second Class
+CU_MCA_008,Female,82.0,3.8,7.0,2.8,76,7.65,No,First Class
+CU_MCA_009,Male,90.0,5.0,7.0,2.0,86,8.70,Yes,Distinction
+CU_MCA_010,Female,74.5,3.0,6.0,3.5,68,6.95,No,Second Class
+CU_MCA_011,Male,68.0,2.2,5.5,4.8,58,6.10,No,Second Class
+CU_MCA_012,Female,96.5,7.0,7.5,1.0,96,9.65,Yes,Distinction
+CU_MCA_013,Male,83.0,4.2,6.5,2.2,80,8.05,Yes,First Class
+CU_MCA_014,Female,87.0,4.8,7.0,2.0,83,8.30,Yes,First Class
+CU_MCA_015,Male,76.5,3.2,6.0,3.8,70,7.15,No,First Class
+CU_MCA_016,Female,91.0,5.2,7.5,1.8,89,8.85,Yes,Distinction
+CU_MCA_017,Male,63.5,1.8,5.0,5.5,50,5.50,No,Second Class
+CU_MCA_018,Female,89.5,5.0,7.0,2.2,85,8.60,Yes,Distinction
+CU_MCA_019,Male,79.0,3.6,6.5,3.2,74,7.50,No,First Class
+CU_MCA_020,Female,94.0,6.0,7.5,1.2,92,9.25,Yes,Distinction
+CU_MCA_021,Male,72.0,2.8,6.0,4.0,65,6.60,No,Second Class
+CU_MCA_022,Female,86.0,4.5,7.0,2.5,82,8.20,Yes,First Class
+CU_MCA_023,Male,88.5,5.0,6.5,2.0,85,8.55,Yes,Distinction
+CU_MCA_024,Female,77.5,3.5,6.5,3.0,73,7.35,No,First Class
+CU_MCA_025,Male,66.0,2.0,5.0,5.2,56,5.90,No,Second Class
+CU_MCA_026,Female,93.0,5.8,7.5,1.5,90,9.10,Yes,Distinction
+CU_MCA_027,Male,81.5,4.0,6.5,2.8,78,7.80,Yes,First Class
+CU_MCA_028,Female,84.0,4.2,7.0,2.4,80,8.00,Yes,First Class
+CU_MCA_029,Male,70.5,2.5,5.5,4.2,63,6.45,No,Second Class
+CU_MCA_030,Female,97.0,7.2,8.0,0.8,98,9.75,Yes,Distinction
+CU_MCA_031,Male,75.0,3.0,6.0,3.5,71,7.20,No,First Class
+CU_MCA_032,Female,89.0,5.1,7.0,1.9,87,8.75,Yes,Distinction
+CU_MCA_033,Male,67.5,2.1,5.0,4.9,57,6.05,No,Second Class
+CU_MCA_034,Female,91.5,5.4,7.5,1.6,89,8.90,Yes,Distinction
+CU_MCA_035,Male,82.5,4.1,6.5,2.6,79,7.85,Yes,First Class
+CU_MCA_036,Female,78.5,3.6,6.5,3.1,74,7.45,No,First Class
+CU_MCA_037,Male,64.0,1.9,5.0,5.4,52,5.65,No,Second Class
+CU_MCA_038,Female,95.5,6.6,8.0,1.1,95,9.55,Yes,Distinction
+CU_MCA_039,Male,87.5,4.9,6.5,2.1,84,8.50,Yes,Distinction
+CU_MCA_040,Female,73.0,2.9,6.0,3.8,66,6.80,No,Second Class
+CU_MCA_041,Male,85.0,4.3,6.5,2.5,81,8.15,Yes,First Class
+CU_MCA_042,Female,90.5,5.3,7.5,1.7,88,8.80,Yes,Distinction
+CU_MCA_043,Male,69.0,2.3,5.5,4.6,60,6.25,No,Second Class
+CU_MCA_044,Female,92.0,5.6,7.5,1.4,91,9.05,Yes,Distinction
+CU_MCA_045,Male,80.0,3.8,6.5,2.9,76,7.70,No,First Class
+CU_MCA_046,Female,83.5,4.1,7.0,2.6,79,7.95,Yes,First Class
+CU_MCA_047,Male,62.0,1.7,4.8,5.8,48,5.40,No,Second Class
+CU_MCA_048,Female,94.5,6.2,8.0,1.2,93,9.35,Yes,Distinction
+CU_MCA_049,Male,86.5,4.7,6.5,2.3,83,8.40,Yes,First Class
+CU_MCA_050,Female,76.0,3.3,6.0,3.4,72,7.30,No,First Class
+CU_MCA_051,Male,88.0,4.8,7.0,2.0,85,8.60,Yes,Distinction
+CU_MCA_052,Female,65.5,2.0,5.5,5.1,55,5.85,No,Second Class
+CU_MCA_053,Male,91.0,5.5,7.0,1.8,88,8.90,Yes,Distinction
+CU_MCA_054,Female,79.5,3.7,6.5,3.0,75,7.55,No,First Class
+CU_MCA_055,Male,71.5,2.6,5.5,4.3,64,6.50,No,Second Class
+CU_MCA_056,Female,96.0,6.8,8.0,1.0,95,9.60,Yes,Distinction
+CU_MCA_057,Male,84.5,4.2,6.5,2.4,81,8.10,Yes,First Class
+CU_MCA_058,Female,87.5,4.9,7.0,2.1,84,8.45,Yes,First Class
+CU_MCA_059,Male,74.0,3.1,6.0,3.6,69,7.05,No,First Class
+CU_MCA_060,Female,93.5,5.9,7.5,1.3,91,9.20,Yes,Distinction
+CU_MCA_061,Male,67.0,2.1,5.0,5.0,57,6.00,No,Second Class
+CU_MCA_062,Female,90.0,5.2,7.5,1.9,87,8.75,Yes,Distinction
+CU_MCA_063,Male,78.0,3.5,6.5,3.1,74,7.45,No,First Class
+CU_MCA_064,Female,85.5,4.4,7.0,2.5,82,8.25,Yes,First Class
+CU_MCA_065,Male,63.0,1.8,4.8,5.6,51,5.55,No,Second Class
+CU_MCA_066,Female,97.5,7.5,8.0,0.8,97,9.80,Yes,Distinction
+CU_MCA_067,Male,82.0,4.0,6.5,2.7,78,7.85,Yes,First Class
+CU_MCA_068,Female,81.0,3.9,7.0,2.8,77,7.75,No,First Class
+CU_MCA_069,Male,69.5,2.4,5.5,4.5,61,6.30,No,Second Class
+CU_MCA_070,Female,92.5,5.7,7.5,1.5,90,9.00,Yes,Distinction
+CU_MCA_071,Male,75.5,3.2,6.0,3.5,71,7.25,No,First Class
+CU_MCA_072,Female,89.0,5.0,7.0,2.0,86,8.65,Yes,Distinction
+CU_MCA_073,Male,66.5,2.0,5.0,5.2,56,5.95,No,Second Class
+CU_MCA_074,Female,95.0,6.4,8.0,1.1,94,9.45,Yes,Distinction
+CU_MCA_075,Male,83.5,4.1,6.5,2.5,80,8.00,Yes,First Class
+CU_MCA_076,Female,77.0,3.4,6.5,3.2,73,7.40,No,First Class
+CU_MCA_077,Male,64.5,1.9,5.0,5.3,53,5.70,No,Second Class
+CU_MCA_078,Female,91.5,5.3,7.5,1.7,89,8.85,Yes,Distinction
+CU_MCA_079,Male,86.0,4.6,6.5,2.2,83,8.35,Yes,First Class
+CU_MCA_080,Female,73.5,2.9,6.0,3.9,67,6.85,No,Second Class
+CU_MCA_081,Male,87.0,4.8,7.0,2.1,84,8.50,Yes,Distinction
+CU_MCA_082,Female,94.0,6.1,7.5,1.3,92,9.30,Yes,Distinction
+CU_MCA_083,Male,70.0,2.5,5.5,4.4,62,6.40,No,Second Class
+CU_MCA_084,Female,88.5,4.9,7.0,2.0,85,8.55,Yes,Distinction
+CU_MCA_085,Male,81.0,3.9,6.5,2.8,77,7.75,No,First Class
+CU_MCA_086,Female,84.0,4.3,7.0,2.5,81,8.10,Yes,First Class
+CU_MCA_087,Male,61.5,1.6,4.5,6.0,46,5.30,No,Second Class
+CU_MCA_088,Female,96.0,7.0,8.0,0.9,96,9.70,Yes,Distinction
+CU_MCA_089,Male,85.0,4.5,6.5,2.3,82,8.25,Yes,First Class
+CU_MCA_090,Female,76.5,3.3,6.0,3.3,72,7.35,No,First Class
+CU_MCA_091,Male,89.5,5.1,7.0,1.9,87,8.70,Yes,Distinction
+CU_MCA_092,Female,68.5,2.2,5.5,4.7,59,6.15,No,Second Class
+CU_MCA_093,Male,90.5,5.4,7.0,1.8,88,8.85,Yes,Distinction
+CU_MCA_094,Female,80.5,3.8,6.5,2.9,76,7.65,No,First Class
+CU_MCA_095,Male,72.5,2.7,5.5,4.1,65,6.55,No,Second Class
+CU_MCA_096,Female,93.0,5.8,7.5,1.4,91,9.15,Yes,Distinction
+CU_MCA_097,Male,83.0,4.1,6.5,2.5,80,8.05,Yes,First Class
+CU_MCA_098,Female,86.5,4.6,7.0,2.2,83,8.35,Yes,First Class
+CU_MCA_099,Male,75.0,3.1,6.0,3.7,70,7.10,No,First Class
+CU_MCA_100,Female,98.0,7.6,8.5,0.7,99,9.85,Yes,Distinction
+
